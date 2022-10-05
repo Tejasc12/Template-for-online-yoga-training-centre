@@ -1,1 +1,1 @@
-# new-yoga-training-centre-
+# template for online yoga training centre
